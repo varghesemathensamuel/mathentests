@@ -1,4 +1,9 @@
 1.mathen
 2.samuel
+<<<<<<< HEAD
 3.yellow
 4.green
+=======
+3.sneha
+4.grace
+>>>>>>> his-branch
